@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- handle empty response gracefully
-- Build: 2026-03-18T13:00:01.365Z
+- improve code examples in docs
+- Updated: 2026-03-19T13:00:00.893Z
