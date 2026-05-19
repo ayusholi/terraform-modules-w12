@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- optimize database query performance
-- Build: 2026-04-17T13:00:01.880Z
+- resolve race condition in async handler
+- Updated: 2026-05-19T00:45:19.547Z
