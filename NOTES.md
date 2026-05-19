@@ -1,7 +1,7 @@
 # Notes
 
-Last updated: 2026-05-19T13:00:01.285Z
+Session: 2026-05-19T13:00:01.285Z
 
-## Progress
+## Summary
 
-- add gitignore and project config files
+- correct date parsing for different locales
