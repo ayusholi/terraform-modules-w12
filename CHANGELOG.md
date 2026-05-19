@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- resolve race condition in async handler
-- Updated: 2026-05-19T00:45:19.547Z
+- extract helper functions to utils
+- Updated: 2026-05-19T13:00:01.285Z
